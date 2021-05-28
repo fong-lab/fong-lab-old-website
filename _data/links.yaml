@@ -42,6 +42,12 @@ search:
   tooltip: Search
   link: $LINK
 
+join:
+  icon: fas fa-hands-helping
+  text: Join
+  tooltip: Join
+  link: $LINK
+
 # social media
 
 orcid:
