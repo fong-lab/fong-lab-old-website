@@ -8,10 +8,9 @@ nav:
 
 {%
   include feature.html
-  image="images/group-photo.jpg"
-  link="team"
-  title="Meet our team"
-  text="Our team is made up of people all around the globe, dedicated to transparent and reproducible science."
+  image="images/headshots/fong.png"
+  title="Ming-fai Fong"
+  text="Ming-fai Fong will be joining the Coulter Department of Biomedical Engineering at the Georgia Institute of Technology and Emory University as an assistant professor in Fall 2021.  Dr. Fong received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship at Wellesley College.  Her prior research focused on locomotive robotics, homeostatic plasticity, and visual rehabilitation.  She has also worked in wheelchair design, clean water initiatives, and STEM education."
 %}
 
 {% include section.html %}
@@ -24,39 +23,3 @@ nav:
   style="button"
 %}
 {:.center}
-
-{% include section.html %}
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}
