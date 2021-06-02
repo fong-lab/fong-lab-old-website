@@ -32,12 +32,12 @@
     Visual Cortical Plasticity
   authors:
   - Ming-fai Fong
-  - Peter Sb Finnie
+  - Peter S.B. Finnie
   - Taekeun Kim
   - Aurore Thomazeau
-  - Eitan S Kaplan
-  - Samuel F Cooke
-  - Mark F Bear
+  - Eitan S. Kaplan
+  - Samuel F. Cooke
+  - Mark F. Bear
   publisher: Cerebral Cortex
   date: '2020-04-01'
   link: https://doi.org/gkcdsx
@@ -122,7 +122,7 @@
   - T.W. Zhang
   - ' Ming-fai Fong'
   - H.S. Seung
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE International Conference on Robotics and Automation
   date: '2004-01-01'
   link: https://doi.org/dv3zh3
   image: ../images/publications/tedrake2004-icra_thumbnail.png
