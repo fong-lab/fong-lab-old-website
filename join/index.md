@@ -6,11 +6,10 @@ nav:
 
 # Join our team
 
-We are committed to mentoring and training at all stages.
+We are a multidisciplinary lab committed to mentoring and training at all scientific stages.
 
 {% include section.html %}
 
-# Open positions
 
 ## Postdoctoral Scholars
 
@@ -22,11 +21,6 @@ job description here
 job description here
 
 
-## Technicians
-
-job description here
-
-
-## Undergraduates
+## Research Technician
 
 job description here
