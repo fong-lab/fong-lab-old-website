@@ -8,6 +8,14 @@
 
 - id: doi:10.1093/cercor/bhz260
   image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  authors:
+  - Ming-fai Fong
+  - Peter S.B. Finnie
+  - Taekeun Kim
+  - Aurore Thomazeau
+  - Eitan S. Kaplan
+  - Samuel F. Cooke
+  - Mark F. Bear
 
 - id: doi:10.1002/cne.24336
   image: ../images/publications/duffy2018-jcn_thumbnail.png
@@ -29,3 +37,4 @@
 
 - id: doi:10.1109/ROBOT.2004.1302452
   image: ../images/publications/tedrake2004-icra_thumbnail.png
+  publisher: IEEE International Conference on Robotics and Automation
