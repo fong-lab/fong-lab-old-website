@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
 ---
 
 # <i class="fas fa-envelope"></i>Contact
