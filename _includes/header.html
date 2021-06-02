@@ -16,7 +16,6 @@
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
-    data-tooltip="Home"
   >
     <img src="{{ site.logo | relative_url }}" class="logo" alt="Logo image" />
     {% if site.logo-text != false %}
@@ -32,7 +31,7 @@
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
     {%- for page in pages -%}
       {%- if page.nav -%}
-        {%- include link.html type="link" text=page.title tooltip=page.nav.tooltip link=page.dir -%}
+        {%- include link.html type="link" text=page.title link=page.dir -%}
       {%- endif -%}
     {%- endfor -%}
   </nav>
