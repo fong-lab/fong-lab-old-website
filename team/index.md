@@ -1,11 +1,10 @@
 ---
-title: Team
+title: People
 nav:
-  order: 3
-  tooltip: About our team
+  order: 2
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>People
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
