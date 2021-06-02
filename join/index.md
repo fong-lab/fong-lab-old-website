@@ -1,7 +1,7 @@
 ---
-title: Resources
+title: Join
 nav:
-  order: 4
+  order: 6
 ---
 
 # <i class="fas fa-tools"></i>Resources
