@@ -6,14 +6,11 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The central goal of the Fong Lab is to develop plasticity-based interventions for treating neurological disorders.
 
 {% include section.html %}
 
-# Highlights
+# Projects
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid
@@ -25,14 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  headline="Our Research"
+  headline="Experience-dependent plasticity in visual circuits"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Visual deprivation is a classic paradigm for studying how acute disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, as well as the causal influence of these altered activity statistics on long-term plasticity.
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -41,8 +36,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
+  headline="Acute control of neural activity to drive long-lasting plasticity"
   text=text
 %}
 
@@ -56,7 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  headline="Our Team"
+  headline="Identifying retinal ganglion cell types mediating "
   text=text
 %}
