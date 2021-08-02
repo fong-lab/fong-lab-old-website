@@ -2,9 +2,18 @@
   image: ../images/publications/fong-duffy2020-preprint_thumbnail.png
   date: '2021-05-04'
   publisher: bioRxiv
+  tags:
+    - vision
+    - rehabilitation
+    - experience-dependent plasticity
+    - synaptic plasticity
 
 - id: doi:10.1523/JNEUROSCI.1393-19.2020 
   image: ../images/publications/hanes2020_thumbnail.png
+  tags:
+    - homeostatic plasticity
+    - synaptic plasticity
+    - computational neuroscience
 
 - id: doi:10.1093/cercor/bhz260
   image: ../images/publications/fong2020-cerebctx_thumbnail.png
@@ -16,25 +25,51 @@
   - Eitan S. Kaplan
   - Samuel F. Cooke
   - Mark F. Bear
+  tags:
+    - vision
+    - experience-dependent plasticity
+    - synaptic plasticity
 
 - id: doi:10.1002/cne.24336
   image: ../images/publications/duffy2018-jcn_thumbnail.png
+  tags:
+    - vision
+    - rehabilitation
 
 - id: doi:10.1073/pnas.1613279113
   image: ../images/publications/fong2016-pnas_thumbnail.png
+  tags:
+    - vision
+    - rehabilitation
+    - experience-dependent plasticity
 
 - id: doi:10.7554/eLife.07192
   image: ../images/publications/newman2016-elife_thumbnail.png
+  tags:
+    - controls and dynamics
+    - technology development
 
 - id: doi:10.1038/ncomms7339
   image: ../images/publications/fong2016-natcomm_thumbnail.png
+  tags:
+    - homeostatic plasticity
+    - controls and dynamics
 
 - id: doi:10.3389/fncir.2013.00184
   image: ../images/publications/tchumatchenko-newman2013-frontiers_thumbnail.png
+  tags:
+    - computational neuroscience
+    - technology development
 
 - id: doi:10.3389/fncir.2012.00098
   image: ../images/publications/newman2013-frontiers_thumbnail.png
+  tags:
+    - controls and dynamics
+    - technology development
 
 - id: doi:10.1109/ROBOT.2004.1302452
   image: ../images/publications/tedrake2004-icra_thumbnail.png
   publisher: IEEE International Conference on Robotics and Automation
+  tags:
+    - robotics
+    - controls & dynamics
