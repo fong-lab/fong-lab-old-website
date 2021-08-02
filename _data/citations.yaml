@@ -16,7 +16,6 @@
   - vision
   - rehabilitation
   - experience-dependent plasticity
-  - synaptic plasticity
 - id: doi:10.1523/JNEUROSCI.1393-19.2020
   title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
     in Dissociated Neuronal Cultures
@@ -34,7 +33,6 @@
   image: ../images/publications/hanes2020_thumbnail.png
   tags:
   - homeostatic plasticity
-  - synaptic plasticity
   - computational neuroscience
 - id: doi:10.1093/cercor/bhz260
   title: Distinct Laminar Requirements for NMDA Receptors in Experience-Dependent
@@ -54,7 +52,6 @@
   tags:
   - vision
   - experience-dependent plasticity
-  - synaptic plasticity
 - id: doi:10.1002/cne.24336
   title: Recovery from the anatomical effects of long-term monocular deprivation in
     cat lateral geniculate nucleus
@@ -70,6 +67,7 @@
   tags:
   - vision
   - rehabilitation
+  - experience-dependent plasticity
 - id: doi:10.1073/pnas.1613279113
   title: Rapid recovery from the effects of early monocular deprivation is enabled
     by temporary inactivation of the retinas
@@ -100,8 +98,10 @@
   link: https://doi.org/ghbdss
   image: ../images/publications/newman2016-elife_thumbnail.png
   tags:
-  - controls and dynamics
+  - neuroengineering
+  - dynamics & controls
   - technology development
+  - optogenetics
 - id: doi:10.1038/ncomms7339
   title: Upward synaptic scaling is dependent on neurotransmission rather than spiking
   authors:
@@ -115,7 +115,8 @@
   image: ../images/publications/fong2016-natcomm_thumbnail.png
   tags:
   - homeostatic plasticity
-  - controls and dynamics
+  - dynamics & controls
+  - optogenetics
 - id: doi:10.3389/fncir.2013.00184
   title: Delivery of continuously-varying stimuli using channelrhodopsin-2
   authors:
@@ -130,6 +131,7 @@
   tags:
   - computational neuroscience
   - technology development
+  - optogenetics
 - id: doi:10.3389/fncir.2012.00098
   title: Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter
     Electrophysiology Platform
@@ -145,8 +147,10 @@
   link: https://doi.org/gkcds5
   image: ../images/publications/newman2013-frontiers_thumbnail.png
   tags:
-  - controls and dynamics
+  - neuroengineering
+  - dynamics & controls
   - technology development
+  - optogenetics
 - id: doi:10.1109/ROBOT.2004.1302452
   title: Actuating a simple 3D passive dynamic walker
   authors:
@@ -160,4 +164,5 @@
   image: ../images/publications/tedrake2004-icra_thumbnail.png
   tags:
   - robotics
-  - controls & dynamics
+  - machine learning
+  - dynamics & controls
