@@ -6,7 +6,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-The Fong Lab seeks to understand how activity and experience shape neural plasticity, and to develop plasticity-based interventions for treating neurological disorders.  Toward this goal, we use a variety of approaches including electrophysiology, optogenetics, behavioral assessments, computational modeling, and control systems engineering.  Current work focuses on the early visual pathway and neurodevelopmental visual impairment.
+The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based interventions for treating neurological disorders.  Toward this goal, we use a variety of approaches including electrophysiology, optogenetics, behavioral assessments, computational modeling, and control systems engineering.  Current work focuses on the early visual pathway and neurodevelopmental visual impairment.
 
 {% include section.html %}
 
