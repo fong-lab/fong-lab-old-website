@@ -10,15 +10,14 @@ Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Location
+### <i class="fas fa-mail-bulk"></i>Directions
 
 
 {%
   include feature.html
-  image=""
-  headline="Directions"
+  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
+  headline=""
   text="We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building.
-."
 %}
 
 
@@ -28,19 +27,3 @@ Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong
 Room 3237
 Atlanta, GA 30318
 {:.center}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3316.3146814428096!2d-84.3991614!3d33.7783711!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5048a62a3f1b9%3A0x47028b841b289b1a!2sU.A.%20Whitaker%20Building!5e0!3m2!1sen!2sus!4v1627965435465!5m2!1sen!2sus"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
