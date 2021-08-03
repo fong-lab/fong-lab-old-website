@@ -1,18 +1,26 @@
 pi:
-  icon: fas fa-chalkboard-teacher
+  icon: fas fa-hand-peace
   text: Principal Investigator
 
 postdoc:
-  icon: fas fa-microscope
+  icon: fas fa-brain
   text: Postdoctoral Researcher
 
-phd:
-  icon: fas fa-graduate
-  text: PhD Student
+graduate:
+  icon: fas fa-graduation-cap
+  text: Graduate Student
 
 undergrad:
   icon: fas fa-seedling
   text: Undergraduate Student
+
+technician:
+  icon: fas fa-microscope
+  text: Technician
+
+manager:
+  icon: fas fa-magic
+  text: Lab Manager
 
 programmer:
   icon: fas fa-code
