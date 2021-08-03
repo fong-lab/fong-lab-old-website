@@ -10,7 +10,7 @@ The Fong Lab seeks to understand how activity and experience shape neural circui
 
 {% include section.html %}
 
-# Current Projects
+## Current Projects
 
 {% capture text %}
 Visual deprivation is a classic paradigm for studying how transiet disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex.  We also design tools to probe causal relationships between altered activity statistics on long-term plasticity.
