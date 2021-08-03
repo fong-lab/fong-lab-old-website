@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# <i class="fas fa-users"></i>People
+# People
 
 {%
   include feature.html
