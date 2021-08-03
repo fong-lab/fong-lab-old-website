@@ -4,7 +4,7 @@ nav:
   order: 4
 ---
 
-# <i class="fas fa-feather-alt"></i>News
+# News
 
 {% include section.html %}
 
