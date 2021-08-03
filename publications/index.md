@@ -4,7 +4,7 @@ nav:
   order: 3
 ---
 
-# <i class="far fa-newspaper"></i>Publications
+# <i class="far fa-file-signature"></i>Publications
 
 
 
