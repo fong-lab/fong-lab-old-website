@@ -6,40 +6,14 @@ nav:
 
 # <i class="fas fa-paper-plane"></i>Contact
 
-We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building.
-
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="ming-fai.fong@bme.gatech.edu"
-  tooltip=""
-  link="ming-fai.fong@bme.gatech.edu"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
-{%
-  include link.html
-  type="address"
-  icon=""
-  text="Google Maps"
-  tooltip=""
-  link="https://www.google.com/maps/place/U.A.+Whitaker+Building/@33.7783711,-84.3991614,17z"
-  style="button"
-%}
-{:.center}
+Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### <i class="fas fa-mail-bulk"></i>Directions to the lab
+
+We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building.
+
 
 313 Ferst Drive
 Room 3237
