@@ -18,7 +18,7 @@ Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong
   include feature.html
   image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
   headline=""
-  text="We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building.
+  text="We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus in the U.A. Whitaker building, Room 3237."
 %}
 
 
