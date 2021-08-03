@@ -4,8 +4,7 @@ nav:
   order: 3
 ---
 
-<i class="fas fa-file-signature"></i>
-# Publications
+# <i class="fas fa-file-signature"></i><br>Publications
 
 
 
