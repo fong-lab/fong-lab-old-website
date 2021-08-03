@@ -31,8 +31,8 @@ We are part of the [Coulter Department of Biomedical Engineering](https://www.bm
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  tooltip=""
+  link="https://www.google.com/maps/place/U.A.+Whitaker+Building/@33.7783711,-84.3991614,17z"
   style="button"
 %}
 {:.center}
@@ -41,15 +41,15 @@ We are part of the [Coulter Department of Biomedical Engineering](https://www.bm
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+313 Ferst Drive
+Room 3237
+Atlanta, GA 30318
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3316.3146814428096!2d-84.3991614!3d33.7783711!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5048a62a3f1b9%3A0x47028b841b289b1a!2sU.A.%20Whitaker%20Building!5e0!3m2!1sen!2sus!4v1627965435465!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   caption="The Center for Wit and Sagacity"
 %}
 {% endcapture %}
