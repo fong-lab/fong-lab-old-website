@@ -7,6 +7,7 @@ nav:
 # <i class="fas fa-paper-plane"></i>Contact
 
 Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+{:.center}
 
 {% include section.html %}
 
