@@ -6,16 +6,15 @@ nav:
 
 # <i class="fas fa-paper-plane"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="ming-fai.fong@bme.gatech.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="ming-fai.fong@bme.gatech.edu"
   style="button"
 %}
 {%
