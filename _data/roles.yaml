@@ -1,5 +1,5 @@
 pi:
-  icon: fas fa-hand-peace
+  icon: fas fa-chalkboard-teacher
   text: Principal Investigator
 
 postdoc:
@@ -21,11 +21,7 @@ technician:
 manager:
   icon: fas fa-magic
   text: Lab Manager
-
-programmer:
-  icon: fas fa-code
-  text: Programmer
-
-mascot:
-  icon: fas fa-brain
-  text: Mascot
+  
+alumni:
+  icon: fas fa-hand-spock
+  text: Alumni
