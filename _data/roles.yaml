@@ -1,17 +1,17 @@
 pi:
-  icon: fas fa-microscope
+  icon: fas fa-chalkboard-teacher
   text: Principal Investigator
 
 postdoc:
-  icon: fas fa-glasses
+  icon: fas fa-microscope
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-graduate
   text: PhD Student
 
 undergrad:
-  icon: fas fa-user-graduate
+  icon: fas fa-seedling
   text: Undergraduate Student
 
 programmer:
@@ -19,5 +19,5 @@ programmer:
   text: Programmer
 
 mascot:
-  icon: fas fa-dog
+  icon: fas fa-brain
   text: Mascot
