@@ -6,7 +6,7 @@ nav:
 
 # Research
 
-The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based interventions for treating neurological disorders.  Toward this goal, we use a variety of approaches including electrophysiology, optogenetics, behavior, modeling, and control systems engineering.  Current work focuses on the early visual pathway and neurodevelopmental visual impairment.
+The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based interventions for treating neurological disorders.  We use a variety of experimental approaches and engineering tools to achieve these goals.  Current work focuses on the early visual pathway and neurodevelopmental visual impairment.
 
 {% include section.html %}
 
@@ -26,7 +26,7 @@ Visual deprivation is a classic paradigm for studying how transiet disruptions t
 %}
 
 {% capture text %}
-Variability in ongoing neural activity influences the capacity for neural circuits to undergo plasticity.  This can fundamentally limit plasticity potential in mature systems or in states of disease.  We develop neural interfaces and control architectures for precisely regulating neural activity to create conditions that promote plasticity at the cellular, synaptic, and circuit levels.
+With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity changes with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking activity to create activity states that promote plasticity at the cellular, synaptic, and circuit levels.
 {:.center}
 {% endcapture %}
 
