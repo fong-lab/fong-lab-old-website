@@ -36,7 +36,7 @@ With any perturbation to activity or experience, the probability that a neural c
 {%
   include feature.html
   image="images/photo.jpg"
-  headline="<i class="fas fa-low-vision"></i> Neural interfaces for biasing plasticity"
+  headline="Neural interfaces for biasing plasticity"
   text=text
 %}
 
