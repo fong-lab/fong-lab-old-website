@@ -48,7 +48,7 @@
   publisher: Cerebral Cortex
   date: '2020-04-01'
   link: https://doi.org/gkcdsx
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  image: ../images/publications/fong2020-cerebctx_thumbnail.svg
   tags:
   - vision
   - experience-dependent plasticity
@@ -63,7 +63,7 @@
   publisher: Journal of Comparative Neurology
   date: '2018-02-01'
   link: https://doi.org/gcgzxt
-  image: ../images/publications/duffy2018-jcn_thumbnail.png
+  image: ../images/publications/duffy2018-jcn_thumbnail.svg
   tags:
   - vision
   - rehabilitation
@@ -79,7 +79,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2016-12-06'
   link: https://doi.org/f9f2gw
-  image: ../images/publications/fong2016-pnas_thumbnail.png
+  image: ../images/publications/fong2016-pnas_thumbnail.svg
   tags:
   - vision
   - rehabilitation
@@ -96,7 +96,7 @@
   publisher: eLife
   date: '2015-07-03'
   link: https://doi.org/ghbdss
-  image: ../images/publications/newman2016-elife_thumbnail.png
+  image: ../images/publications/newman2016-elife_thumbnail.svg
   tags:
   - neuroengineering
   - dynamics & controls
@@ -112,7 +112,7 @@
   publisher: Nature Communications
   date: '2015-03-09'
   link: https://doi.org/f67qht
-  image: ../images/publications/fong2016-natcomm_thumbnail.png
+  image: ../images/publications/fong2016-natcomm_thumbnail.svg
   tags:
   - homeostatic plasticity
   - dynamics & controls
@@ -127,7 +127,7 @@
   publisher: Frontiers in Neural Circuits
   date: '2013-01-01'
   link: https://doi.org/ghbhp2
-  image: ../images/publications/tchumatchenko-newman2013-frontiers_thumbnail.png
+  image: ../images/publications/tchumatchenko-newman2013-frontiers_thumbnail.svg
   tags:
   - computational neuroscience
   - technology development
@@ -145,7 +145,7 @@
   publisher: Frontiers in Neural Circuits
   date: '2013-01-01'
   link: https://doi.org/gkcds5
-  image: ../images/publications/newman2013-frontiers_thumbnail.png
+  image: ../images/publications/newman2013-frontiers_thumbnail.svg
   tags:
   - neuroengineering
   - dynamics & controls
@@ -161,7 +161,7 @@
   publisher: IEEE International Conference on Robotics and Automation
   date: '2004-01-01'
   link: https://doi.org/dv3zh3
-  image: ../images/publications/tedrake2004-icra_thumbnail.png
+  image: ../images/publications/tedrake2004-icra_thumbnail.svg
   tags:
   - robotics
   - machine learning
