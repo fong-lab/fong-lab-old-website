@@ -27,7 +27,7 @@ Visual deprivation is a classic paradigm for studying how transient disruptions 
 %}
 
 {% capture text %}
-With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity changes with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking activity to create activity states that promote plasticity at the cellular, synaptic, and circuit levels.
+With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity tends to decline with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking to create activity states that support plasticity at the cellular, synaptic, and circuit levels.
 <br>
 
 {:.center}
