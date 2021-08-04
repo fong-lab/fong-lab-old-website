@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: Fong Lab
+title: ""
 description: Fong Lab in Coulter Department of Biomedical Engineering @ Georgia Tech & Emory
-logo: images/clear-dot.svg
+logo: images/fonglab.svg
 header: images/optical-tabletop.jpg
 footer: images/optical-tabletop.jpg
 baseurl: /
