@@ -6,14 +6,14 @@ nav:
 
 # <i class="fas fa-microscope"></i> Research
 
-The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based interventions for treating neurological disorders.  We use a variety of experimental approaches and engineering tools to achieve these goals.  Current work focuses on the early visual pathway and neurodevelopmental visual impairment.
+The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based interventions for treating neurological disorders.  We use a variety of experimental approaches and engineering tools to achieve these goals.  Current work focuses on the central visual pathway and neurodevelopmental visual impairment.
 
 {% include section.html %}
 
 ## Current Projects
 
 {% capture text %}
-Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal impact of altered activity statistics on long-term plasticity.
+Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal relationships between altered activity statistics and long-term plasticity.
 
 
 {:.center}
