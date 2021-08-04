@@ -38,10 +38,11 @@
 
 - id: doi:10.3389/fncir.2013.00184
   image: ../images/publications/tchumatchenko-newman2013-frontiers_thumbnail.png
-
+  date: '2013-12-06'
 
 - id: doi:10.3389/fncir.2012.00098
   image: ../images/publications/newman2013-frontiers_thumbnail.png
+  date: '2013-01-18'
 
 
 - id: doi:10.1109/ROBOT.2004.1302452
