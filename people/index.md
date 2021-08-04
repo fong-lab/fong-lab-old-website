@@ -6,6 +6,8 @@ nav:
 
 # <i class="fas fa-users"></i>People
 
+{% include section.html %}
+
 {%
   include feature.html
   image="images/headshots/fong.png"
