@@ -16,46 +16,7 @@ nav:
 %}
 
 
-{% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: manager"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: technician"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: graduate"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergraduate"
-%}
-
-{:.center}
 
 {% include section.html}
 
@@ -67,11 +28,3 @@ nav:
   style="button"
 %}
 {:.center}
-
-{% include section.html %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: alum"
-%}
