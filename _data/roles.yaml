@@ -6,7 +6,7 @@ postdoc:
   icon: fas fa-brain
   text: Postdoctoral Researcher
 
-graduate:
+grad-student:
   icon: fas fa-graduation-cap
   text: Graduate Student
 
@@ -22,6 +22,6 @@ manager:
   icon: fas fa-magic
   text: Lab Manager
   
-alumni:
+alum:
   icon: fas fa-hand-spock
   text: Alumni
