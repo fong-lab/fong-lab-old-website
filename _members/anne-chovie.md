@@ -1,7 +1,7 @@
 ---
 name: Anne Chovie
 image: images/member.jpg
-description: Bark Ops Engineer
+description: Research Technician
 role: technician
 aliases:
   - A. Chovie
