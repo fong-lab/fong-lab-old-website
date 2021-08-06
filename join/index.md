@@ -6,7 +6,7 @@ nav:
 
 # <i class="fas fa-hands-helping"></i>Join our team
 
-Want to become a founding member of the Fong lab?  We seek to build a multidisciplinary and diverse team of scientists and engineers.  The PI is committed to mentoring and training individuals at all scientific stages.
+Want to become a founding member of the Fong lab?  We seek to build a multidisciplinary and diverse team of scientists and engineers.  Dr. Fong has a long history of mentoring and is committed to training individuals at all career stages.
 
 {% include section.html %}
 
