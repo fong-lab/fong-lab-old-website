@@ -10,17 +10,14 @@ Want to become a founding member of the Fong lab?  We seek to build a multidisci
 
 {% include section.html %}
 
+## Research Technician
+
+description here
 
 ## Postdoctoral Scholars
 
-job description here
-
+description here
 
 ## Graduate Students
 
-job description here
-
-
-## Research Technician
-
-job description here
+description here
