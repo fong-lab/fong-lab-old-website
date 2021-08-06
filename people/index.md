@@ -15,3 +15,48 @@ nav:
   text="Ming-fai Fong received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.  Dr. Fong will be joining the Coulter Department of Biomedical Engineering at Georgia Tech and Emory as an assistant professor in Fall 2021."
 %}
 
+<!--
+{% include section.html %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: manager"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: technician"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: grad-student"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alum"
+%}
+-->
