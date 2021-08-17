@@ -21,7 +21,7 @@ Visual deprivation is a classic paradigm for studying how transient disruptions 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/cortical-spindle-lgn-stim.png"
   headline="Experience-dependent plasticity in visual circuits"
   text=text
 %}
@@ -35,7 +35,7 @@ With any perturbation to activity or experience, the probability that a neural c
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/closed-loop-visual-01.png"
   headline="Neural interfaces for biasing plasticity"
   text=text
 %}
