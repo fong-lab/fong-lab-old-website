@@ -48,7 +48,7 @@ Amblyopia is a widespread neurodevelopmental visual impairment that arises from 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/preclinical-amblyopia-research.png"
   headline="Plasticity-based interventions for visual impairment"
   text=text
 %}
