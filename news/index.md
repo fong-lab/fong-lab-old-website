@@ -4,7 +4,7 @@ nav:
   order: 4
 ---
 
-# <i class="fas fa-broadcast-tower"></i> News
+# <i class="fas fa-bullhorn"></i>  News
 
 {% include section.html %}
 
