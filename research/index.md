@@ -35,7 +35,7 @@ With any perturbation to activity or experience, the probability that a neural c
 
 {%
   include feature.html
-  image="images/research/closed-loop-visual-01.png"
+  image="images/research/closed-loop-visual-system.png"
   headline="Neural interfaces for biasing plasticity"
   text=text
 %}
