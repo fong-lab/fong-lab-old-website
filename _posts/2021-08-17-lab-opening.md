@@ -1,10 +1,10 @@
 ---
-title: Opening Fall 2021
+title: 
 tags:
 author: Ming-fai Fong
 member: ming-fai-fong
 ---
 
-# Opening Fall 2021
+# Hello world
 
-The Fong lab will be opening in October 2021 on the Georgia Tech campus.  The lab space is currently being renovated and populated with surgical suites, electrophysiology rigs, and more!
+Welcome to the Fong Lab! We study neural plasticity and how it can be leveraged to treat neurological disorders. The lab will open in the Coulter Department of Biomedical Engineering at Georgia Tech & Emory in October 2021. The lab space is currently being renovated and populated with surgical suites, electrophysiology rigs, and more!
