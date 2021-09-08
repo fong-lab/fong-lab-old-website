@@ -1,21 +1,17 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1101/2021.05.03.442423
+- id: doi:10.7554/eLife.70023
   title: Correction of amblyopia in cats and mice after the critical period
   authors:
   - Ming-fai Fong
-  - Kevin R. Duffy
-  - Madison P. Leet
-  - Christian T. Candler
-  - Mark F. Bear
-  publisher: bioRxiv
-  date: '2021-05-04'
-  link: https://doi.org/gkcdst
+  - Kevin R Duffy
+  - Madison P Leet
+  - Christian T Candler
+  - Mark F Bear
+  publisher: eLife
+  date: '2021-08-31'
+  link: https://doi.org/gmqmgr
   image: ../images/publications/fong-duffy2021-elife_thumbnail.png
-  tags:
-  - vision
-  - rehabilitation
-  - experience-dependent plasticity
 - id: doi:10.1523/JNEUROSCI.1393-19.2020
   title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
     in Dissociated Neuronal Cultures
