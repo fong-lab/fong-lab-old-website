@@ -22,7 +22,7 @@ We are currently accepting graduate students from the Georgia Tech and Emory Bio
 {% include section.html %}
 
 ## Postdoctoral scholars
-We anticipate funding for various postdoctoral opportunities to be available on a rolling basis throughout 2022.  Individuals interested working in the visual plasticity or closed-loop optogenetics space should contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu) about the most updated information on available positions.
+We anticipate funding for various postdoctoral opportunities to be available on a rolling basis throughout 2022.  Individuals interested working on visual plasticity or closed-loop optogenetics should contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu) about the most updated information on available positions.
 
 {% include section.html %}
 
