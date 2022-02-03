@@ -39,14 +39,14 @@ nav:
 **Natasha Sharma**, High School Researcher, MIT/Newton North (2019). *Current appointment: Undergraduate student in Chemistry, Barnard College*.<br>
 **Jocelyn Yao**, Undergraduate Researcher, MIT (2018-2019). *Current appointment: PhD Student in Neuroscience, Johns Hopkins University*.<br>
 **Lisandro Martin**, Undergraduate Researcher and Technician, MIT (2017-2019). *Current appointment: PhD Student in Neuroscience, at Brandeis University*.<br>
-**Elena Esch**, Undergraduate AMGEN Research Scholar, MIT/Lafayette (2017). *Current appointment: MD/PhD Student, University of Colorado*.<br>
+**Elena Esch**, AMGEN Undergraduate Research Scholar, MIT/Lafayette (2017). *Current appointment: MD/PhD Student, University of Colorado*.<br>
 **Madiha Shafquat**, Undergraduate Researcher, MIT (2016-2017). *Current appointment: Consultant at Putnam Associates*.<br>
 **Alyda Huerta**, Undergraduate Researcher, MIT (2016). *Current appointment: PhD Student in Mechanical Engineering, Boston University*.<br>
 **Julia Deere**, Undergraduate Researcher, MIT/Wellesley (2015-2018). *Current appointment: PhD Student in Neuroscience, Rockefeller University*.<br>
 **Filia Van Dessel**, Undergraduate Researcher, MIT/Wellesley (2015-2017). *Current appointment: Medical Student, University of Massachusetts*.<br>
 **Yasemin Atiyas**, Undergraduate Researcher, MIT (2015). *Current appointment: PhD Student in Bioengineering, University of Pennsylvania*.<br>
-**Candace Law**, Undergraduate Researcher, Georgia Tech (2011-2013). *Current appointment: Research Engineer, Cryolife*.<br>
-**Marc Powell**, Undergraduate Researcher, Georgia Tech (2011-2012). *Current appointment: Postdoctoral Scholar, University of Pittsburgh*.<br>
+**Candace Law**, Undergraduate Researcher and LINCR Fellow, Georgia Tech (2011-2013). *Current appointment: Research Engineer, Cryolife*.<br>
+**Marc Powell**, Undergraduate Researcher and Petit Scholar, Georgia Tech (2011-2012). *Current appointment: Postdoctoral Scholar, University of Pittsburgh*.<br>
 **Amanda Fernandes**, Undergraduate Researcher, Georgia Tech/Emory (2011). *Current appointment: Product Owner, American Airlines*.<br>
 
 last updated: January 2022
