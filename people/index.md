@@ -33,11 +33,11 @@ nav:
 
 ### Research trainees from previous institutions
 **Christian Candler**, Research Technician, MIT (2019-2021). *Currently PhD Student in Neuroscience, Arizona State University*.<br>
-**Kerlina Liu**, Undergraduate Researcher, MIT (2019-2020). *Currently Undergraduate student in Electrical Engineering & Computer Science, MIT*.<br>
+**Kerlina Liu**, Undergraduate Researcher, MIT (2019-2020). *Currently Undergraduate in Electrical Engineering & Computer Science, MIT*.<br>
 **Nathan Liang**, Undergraduate Researcher, MIT (2019-2020). *Currently High School Teacher, Miami-Dade Public Schools*.<br>
-**Natasha Sharma**, High School Researcher, MIT/Newton North (2019). *Currently Undergraduate student in Chemistry, Barnard College*.<br>
+**Natasha Sharma**, High School Researcher, MIT/Newton North (2019). *Currently Undergraduate in Chemistry, Barnard College*.<br>
 **Jocelyn Yao**, Undergraduate Researcher, MIT (2018-2019). *Currently PhD Student in Neuroscience, Johns Hopkins University*.<br>
-**Lisandro Martin**, Undergraduate Researcher and Technician, MIT (2017-2019). *Currently PhD Student in Neuroscience, at Brandeis University*.<br>
+**Lisandro Martin**, Undergraduate Researcher/Technician, MIT (2017-2019). *Currently PhD Student in Neuroscience, at Brandeis University*.<br>
 **Elena Esch**, AMGEN Undergraduate Research Scholar, MIT/Lafayette (2017). *Currently MD/PhD Student, University of Colorado*.<br>
 **Madiha Shafquat**, Undergraduate Researcher, MIT (2016-2017). *Currently Consultant at Putnam Associates*.<br>
 **Alyda Huerta**, Undergraduate Researcher, MIT (2016). *Currently PhD Student in Mechanical Engineering, Boston University*.<br>
