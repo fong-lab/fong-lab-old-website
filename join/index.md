@@ -13,9 +13,17 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 ## Graduate students
 We are currently accepting graduate students from the Georgia Tech and Emory Biomedical Engineering Program, the Emory Neuroscience Program, an the Georgia Tech Bioengineering Program.  If you a student in one of these programs and interested in joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).  If you are interested in applying to one of these programs, please follow the links below.
 
-[Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program)
-[Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/)
+ <table>
+  <tr>
+    <td><img src="../images/buzz.png" width=100/></td>
+    <td>[Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
+[Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) <br>
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
+</td>
+    <td><img src="../images/swoop.png" width=100/></td>
+  </tr>
+</table> 
+
 
 {% include section.html %}
 
