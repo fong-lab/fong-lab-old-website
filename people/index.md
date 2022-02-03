@@ -30,7 +30,6 @@ nav:
 %}
 
 {% include section.html %}
-## Extended lab family
 
 ### Research trainees from previous institutions
 **Christian Candler**, Research Technician, MIT (2019-2021). *Currently PhD Student in Neuroscience, Arizona State University*.<br>
@@ -48,6 +47,4 @@ nav:
 **Candace Law**, Undergraduate Researcher and LINCR Fellow, Georgia Tech (2011-2013). *Currently Research Engineer, Cryolife*.<br>
 **Marc Powell**, Undergraduate Researcher and Petit Scholar, Georgia Tech (2011-2012). *Currently Postdoctoral Scholar, University of Pittsburgh*.<br>
 **Amanda Fernandes**, Undergraduate Researcher, Georgia Tech/Emory (2011). *Currently Product Owner, American Airlines*.<br>
-
-last updated: January 2022
 
