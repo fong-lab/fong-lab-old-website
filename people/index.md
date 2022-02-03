@@ -33,21 +33,21 @@ nav:
 ## Extended lab family
 
 ### Trainees from previous institutions
-**Christian Candler**, Research Technician (2019-2021). Picower Institute for Learning and Memory, MIT.  *Current appointment: PhD Student in Neuroscience, Arizona State University*.<br>
-**Kerlina Liu**, Undergraduate Researcher (2019-2020). Department of Electrical Engineering & Computer Science, MIT.<br>
-**Nathan Liang**, Undergraduate Researcher (2019-2020). Department of Biological Engineering, MIT. *Current appointment: High School Teacher, Miami-Dade Public Schools*.<br>
-**Natasha Sharma**, High School Researcher (2019). Newton North High School. *Current appointment: Undergraduate student in Chemistry, Barnard College*.<br>
-**Jocelyn Yao**, Undergraduate Researcher (2018-2019). Department of Biological Engineering, MIT. *Current appointment: PhD Student in Neuroscience, Johns Hopkins University*.<br>
-**Lisandro Martin**, Undergraduate Researcher and Technician (2017-2019). Department of Brain & Cognitive Sciences, MIT. *Current appointment: PhD Student in Neuroscience, at Brandeis University*.<br>
-**Elena Esch**, Undergraduate Researcher and MIT-AMGEN Scholar (2017). Department of Neuroscience, Lafayette College. *Current appointment: MD/PhD Student, University of Colorado*.<br>
-**Madiha Shafquat**, Undergraduate Researcher (2016-2017). Department of Biological Engineering, MIT. *Current appointment: Consultant at Putnam Associates*.<br>
-**Alyda Huerta**, Undergraduate Researcher (2016). Department of Mechanical Engineering, MIT. *Current appointment: PhD Student in Mechanical Engineering, Boston University*.<br>
-**Julia Deere**, Undergraduate Researcher (2015-2018). Department of Neuroscience, Wellesley College. *Current appointment: PhD Student in Neuroscience, Rockefeller University*.<br>
-**Filia Van Dessel**, Undergraduate Researcher (2015-2017). Department of Neuroscience, Wellesley College. *Current appointment: Medical Student, University of Massachusetts*.<br>
-**Yasemin Atiyas**, Undergraduate Researcher (2015). Department of Biological Engineering, MIT. *Current appointment: PhD Student in Bioengineering, University of Pennsylvania*.<br>
-**Candace Law**, Undergraduate Researcher (2011-2013). Department of Biomedical Engineering, Georgia Tech. *Current appointment: Research Engineer, Cryolife*.<br>
-**Marc Powell**, Undergraduate Researcher (2011-2012). Department of Biomedical Engineering, Georgia Tech. *Current appointment: Postdoctoral Scholar, University of Pittsburgh*.<br>
-**Amanda Fernandes**, Undergraduate Researcher (2011). Departments of Neuroscience & Behavioral Biology and Anthropology & Human Biology, Emory University. *Current appointment: Product Owner, American Airlines*.<br>
+**Christian Candler**, Research Technician, MIT (2019-2021). *Current appointment: PhD Student in Neuroscience, Arizona State University*.<br>
+**Kerlina Liu**, Undergraduate Researcher, MIT (2019-2020). *Current appointment: Undergraduate student in Electrical Engineering & Computer Science, MIT*.<br>
+**Nathan Liang**, Undergraduate Researcher, MIT (2019-2020). *Current appointment: High School Teacher, Miami-Dade Public Schools*.<br>
+**Natasha Sharma**, High School Researcher, MIT/Newton North (2019). *Current appointment: Undergraduate student in Chemistry, Barnard College*.<br>
+**Jocelyn Yao**, Undergraduate Researcher, MIT (2018-2019). *Current appointment: PhD Student in Neuroscience, Johns Hopkins University*.<br>
+**Lisandro Martin**, Undergraduate Researcher and Technician, MIT (2017-2019). *Current appointment: PhD Student in Neuroscience, at Brandeis University*.<br>
+**Elena Esch**, Undergraduate AMGEN Research Scholar, MIT/Lafayette (2017). *Current appointment: MD/PhD Student, University of Colorado*.<br>
+**Madiha Shafquat**, Undergraduate Researcher, MIT (2016-2017). *Current appointment: Consultant at Putnam Associates*.<br>
+**Alyda Huerta**, Undergraduate Researcher, MIT (2016). *Current appointment: PhD Student in Mechanical Engineering, Boston University*.<br>
+**Julia Deere**, Undergraduate Researcher, MIT/Wellesley (2015-2018). *Current appointment: PhD Student in Neuroscience, Rockefeller University*.<br>
+**Filia Van Dessel**, Undergraduate Researcher, MIT/Wellesley (2015-2017). *Current appointment: Medical Student, University of Massachusetts*.<br>
+**Yasemin Atiyas**, Undergraduate Researcher, MIT (2015). *Current appointment: PhD Student in Bioengineering, University of Pennsylvania*.<br>
+**Candace Law**, Undergraduate Researcher, Georgia Tech (2011-2013). *Current appointment: Research Engineer, Cryolife*.<br>
+**Marc Powell**, Undergraduate Researcher, Georgia Tech (2011-2012). *Current appointment: Postdoctoral Scholar, University of Pittsburgh*.<br>
+**Amanda Fernandes**, Undergraduate Researcher, Georgia Tech/Emory (2011). *Current appointment: Product Owner, American Airlines*.<br>
 
 last updated: January 2022
 
