@@ -12,15 +12,14 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 # Open Positions
 
-The Fong lab is actively recruiting for the positions listed below.
-
 ### Research Technician
-We are looking to hire research technician to help advance our studies on neural plasticity and visual rehabilitation in mice.  The technician will be responsible for conducting experimental and analytical work, as well as managing laboratory operations.  Research activities may include (but is not limited to) mouse handling, stereotaxic surgery, ocular manipulations, electrophysiology, optogenetics, computational analyses, euthanasia, and histology.  Operational work may include (but is not limited to) ordering supplies, managing mouse colonies, setting up equipment, maintaining websites, organizing data repositories, updating animal/safety protocols, and contributing to a positive and inclusive laboratory environment.  The technician will also participate in weekly lab meetings and individual meetings with the principal investigator.
+We are actively recruiting a research technician to help advance our studies on neural plasticity and visual rehabilitation in mice.  The technician will be responsible for conducting experimental and analytical work, as well as managing laboratory operations.  Research activities may include (but is not limited to) mouse handling, stereotaxic surgery, ocular manipulations, electrophysiology, optogenetics, computational analyses, euthanasia, and histology.  Operational work may include (but is not limited to) ordering supplies, managing mouse colonies, setting up equipment, maintaining websites, organizing data repositories, updating animal/safety protocols, and contributing to a positive and inclusive laboratory environment.  The technician will also participate in weekly lab meetings and individual meetings with the principal investigator.
 
 The candidate should have a bachelor's degree in engineering or science by the time of employment, OR an equivalent combination of experience and training.  Programming skills and/or experience working with rodents are preferred but not required.  Ideal candidates will be organized, detail-oriented, and committed to learning beyond of one’s area of expertise.  The position is for full-time employment on the Georgia Tech campus, with a minimum commitment of 1 year.
 
 Applicants should submit a resume/CV (1-2 pages), statement of interest (1 page), and contact information for 2-3 references to [ming-fai.fong@bme.gatech.edu](ming-fai.fong@bme.gatech.edu).
 
+{% include section.html %}
 
 # Training Opportunities
 
