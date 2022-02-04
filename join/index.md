@@ -26,14 +26,14 @@ Applicants should submit a resume/CV (1-2 pages), statement of interest (1 page)
 The Fong lab welcomes applications for graduate or postdoctoral training.  Ming-fai is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
 
 ### Graduate students
-We accept graduate students from the Georgia Tech and Emory Biomedical Engineering Program, the Emory Neuroscience Program, an the Georgia Tech Bioengineering Program.  If you a student in one of these programs and interested in joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).  If you are interested in applying to one of these programs, please follow the links below.
+We accept graduate students from the Georgia Tech and Emory Biomedical Engineering Program, the Emory Neuroscience Program, and the Georgia Tech Bioengineering Program.  If you are a student in one of these programs and interested in joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).  If you are interested in applying to one of these programs, please follow the links below.
 
 [Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
 [Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) <br>
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
 
 ### Postdoctoral scholars
-We anticipate funding for various postdoctoral opportunities to be available on a rolling basis throughout 2022.  Individuals interested in visual plasticity, feedback control, and/or combining electrophysiology with optogenetics are especially encouraged to apply.  Contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu) about the most updated information on available positions.
+Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are in our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 {% include section.html %}
 
