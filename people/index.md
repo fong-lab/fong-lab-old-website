@@ -32,19 +32,19 @@ nav:
 {% include section.html %}
 
 ### Research trainees from previous institutions
-**Christian Candler**, Research Technician, MIT (2019-2021). *Currently PhD Student in Neuroscience, Arizona State University*.<br>
-**Kerlina Liu**, Undergraduate Researcher, MIT (2019-2020). *Currently Undergraduate in Electrical Engineering & Computer Science, MIT*.<br>
-**Nathan Liang**, Undergraduate Researcher, MIT (2019-2020). *Currently High School Teacher, Miami-Dade Public Schools*.<br>
-**Natasha Sharma**, High School Researcher, MIT/Newton North (2019). *Currently Undergraduate in Chemistry, Barnard College*.<br>
-**Jocelyn Yao**, Undergraduate Researcher, MIT (2018-2019). *Currently PhD Student in Neuroscience, Johns Hopkins University*.<br>
-**Lisandro Martin**, Undergraduate Researcher/Technician, MIT (2017-2019). *Currently PhD Student in Neuroscience, at Brandeis University*.<br>
-**Elena Esch**, AMGEN Undergraduate Research Scholar, MIT/Lafayette (2017). *Currently MD/PhD Student, University of Colorado*.<br>
-**Madiha Shafquat**, Undergraduate Researcher, MIT (2016-2017). *Currently Consultant at Putnam Associates*.<br>
-**Alyda Huerta**, Undergraduate Researcher, MIT (2016). *Currently PhD Student in Mechanical Engineering, Boston University*.<br>
-**Julia Deere**, Undergraduate Researcher, MIT/Wellesley (2015-2018). *Currently PhD Student in Neuroscience, Rockefeller University*.<br>
-**Filia Van Dessel**, Undergraduate Researcher, MIT/Wellesley (2015-2017). *Currently Medical Student, University of Massachusetts*.<br>
-**Yasemin Atiyas**, Undergraduate Researcher, MIT (2015). *Currently PhD Student in Bioengineering, University of Pennsylvania*.<br>
-**Candace Law**, Undergraduate Researcher and LINCR Fellow, Georgia Tech (2011-2013). *Currently Research Engineer, Cryolife*.<br>
-**Marc Powell**, Undergraduate Researcher and Petit Scholar, Georgia Tech (2011-2012). *Currently Postdoctoral Scholar, University of Pittsburgh*.<br>
-**Amanda Fernandes**, Undergraduate Researcher, Georgia Tech/Emory (2011). *Currently Product Owner, American Airlines*.<br>
+**Yasemin Atiyas**, Undergraduate Researcher, 2015. *Current appointment: PhD Student in Bioengineering, University of Pennsylvania*.<br>
+**Christian Candler**, Research Technician, 2019-2021. *Current appointment: PhD Student in Neuroscience, Arizona State University*.<br>
+**Julia Deere**, Undergraduate Researcher, 2015-2018. *Current appointment: PhD Student in Neuroscience, Rockefeller University*.<br>
+**Elena Esch**, AMGEN Undergraduate Research Scholar, 2017. *Current appointment: MD/PhD Student, University of Colorado*.<br>
+**Amanda Fernandes**, Undergraduate Researcher, 2011. *Current appointment: Product Owner, American Airlines*.<br>
+**Alyda Huerta**, Undergraduate Researcher, 2016. *Current appointment: PhD Student in Mechanical Engineering, Boston University*.<br>
+**Candace Law**, Undergraduate Researcher and LINCR Fellow, 2011-2013. *Current appointment: Research Engineer, Cryolife*.<br>
+**Nathan Liang**, Undergraduate Researcher, 2019-2020. *Current appointment: High School Teacher, Miami-Dade Public Schools*.<br>
+**Kerlina Liu**, Undergraduate Researcher, 2019-2020. *Current appointment: Undergraduate in Electrical Engineering & Computer Science, MIT*.<br>
+**Lisandro Martin**, Undergraduate Researcher/Technician, 2017-2019. *Current appointment: PhD Student in Neuroscience, at Brandeis University*.<br>
+**Marc Powell**, Undergraduate Researcher and Petit Scholar, 2011-2012. *Current appointment: Postdoctoral Scholar, University of Pittsburgh*.<br>
+**Madiha Shafquat**, Undergraduate Researcher, 2016-2017. *Current appointment: Consultant at Putnam Associates*.<br>
+**Natasha Sharma**, High School Researcher, 2019. *Current appointment: Undergraduate in Chemistry, Barnard College*.<br>
+**Filia Van Dessel**, Undergraduate Researcher, 2015-2017. *Current appointment: Medical Student, University of Massachusetts*.<br>
+**Jocelyn Yao**, Undergraduate Researcher, 2018-2019. *Current appointment: PhD Student in Neuroscience, Johns Hopkins University*.<br>
 
