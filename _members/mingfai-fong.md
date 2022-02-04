@@ -1,7 +1,7 @@
 ---
 name: Ming-fai Fong
 image: images/headshots/fong.png
-description: Principal Investigator
+description: 
 role: pi
 aliases:
   - M-f. Fong
