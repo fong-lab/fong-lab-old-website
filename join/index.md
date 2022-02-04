@@ -33,7 +33,7 @@ We accept graduate students from the Georgia Tech and Emory Biomedical Engineeri
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
 
 ### Postdoctoral scholars
-Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are in our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 {% include section.html %}
 
