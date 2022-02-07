@@ -17,7 +17,7 @@ We are actively recruiting a research technician to help advance our studies on 
 
 The candidate should have a bachelor's degree in engineering or science by the time of employment, OR an equivalent combination of experience and training.  Programming skills and/or experience working with rodents are preferred but not required.  Ideal candidates will be organized, detail-oriented, and committed to learning beyond of one’s area of expertise.  The position is for full-time employment on the Georgia Tech campus, with a minimum commitment of 1 year.
 
-Applicants should submit a resume/CV (1-2 pages), statement of interest (1 page), and contact information for 2-3 references to [ming-fai.fong@bme.gatech.edu](ming-fai.fong@bme.gatech.edu).
+Applicants should submit a resume/CV (maximum of 2 pages), letter of interest (maximum of 1 page), and contact information for 2-3 references to [ming-fai.fong@bme.gatech.edu](ming-fai.fong@bme.gatech.edu).
 
 {% include section.html %}
 
