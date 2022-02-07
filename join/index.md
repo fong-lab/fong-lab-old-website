@@ -39,4 +39,4 @@ Funding for various postdoctoral opportunities is available on a rolling basis. 
 
 # Informal Mentorship
 
-Mentorship can come in many forms, and you do not need to be a member of the Fong lab or interested in our research to seek support.  Ming-fai is open to chatting with students and postdocs on a range of topics (e.g. choosing a lab, career advice, imposter's syndrome, sexual harassment, responsible conduct of research, etc).  Feel free to get in touch with Ming-fai if you would like to talk.
+Mentorship can come in many forms, and you do not need to be a member of the Fong lab or interested in our research to seek support.  Ming-fai is open to chatting with students and postdocs on a range of topics (e.g. choosing a lab, career advice, imposter's syndrome, sexual harassment, responsible conduct of research, forming a thesis committee, etc).  Feel free to get in touch with Ming-fai if you would like to talk.
