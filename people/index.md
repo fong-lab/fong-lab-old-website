@@ -41,7 +41,7 @@ nav:
 **Candace Law**, Undergraduate Researcher and LINCR Fellow, 2011-2013. *Current appointment: Research Engineer, Cryolife*.<br>
 **Nathan Liang**, Undergraduate Researcher, 2019-2020. *Current appointment: High School Teacher, Miami-Dade Public Schools*.<br>
 **Kerlina Liu**, Undergraduate Researcher, 2019-2020. *Current appointment: Undergraduate in Electrical Engineering & Computer Science, MIT*.<br>
-**Lisandro Martin**, Undergraduate Researcher/Technician, 2017-2019. *Current appointment: PhD Student in Neuroscience, at Brandeis University*.<br>
+**Lisandro Martin**, Undergraduate Researcher/Technician, 2017-2019. *Current appointment: PhD Student in Neuroscience, Brandeis University*.<br>
 **Marc Powell**, Undergraduate Researcher and Petit Scholar, 2011-2012. *Current appointment: Postdoctoral Scholar, University of Pittsburgh*.<br>
 **Madiha Shafquat**, Undergraduate Researcher, 2016-2017. *Current appointment: Consultant at Putnam Associates*.<br>
 **Natasha Sharma**, High School Researcher, 2019. *Current appointment: Undergraduate in Chemistry, Barnard College*.<br>
