@@ -29,6 +29,13 @@ nav:
   text="Ta’Kayla is an undergraduate neuroscience major and a NIH ESTEEMED Scholar at Georgia Tech.  She is originally from Dublin, GA, where she contributed to her community through volunteerism with local blood donation and environmental groups, as well as through leadership roles on her high school student council and her city’s youth council.  At Georgia Tech, Ta'Kayla is studying neuroscience with the goal of attending medical school to earn her Au. D in audiology. She aspires to work as an audiologist in the near future, and possibly open her own clinic.  In the Fong lab, Ta’Kayla investigates homeostatic plasticity mechanisms in visual cortical circuits that accompany recovery from amblyopia."
 %}
 
+{%
+  include feature.html
+  image="images/headshots/sarkissian.png"
+  headline="Arvin Sarkissian, Graduate Rotation Student"
+  text="Arvin Sarkissian is a PhD student in the Neuroscience Graduate Program at Emory. He completed his undergraduate studies at Washington University in St. Louis, where he double majored in Cognitive Neuroscience and Biology. Arvin's prior research centered around interindividual variability in human brain organization using functional magnetic resonance imaging (fMRI). He is interested in combining electrophysiological and cellular techniques with computational methods to understand how variability arises in dynamic biological systems."
+%}
+
 {% include section.html %}
 
 ### Research trainees from previous institutions
