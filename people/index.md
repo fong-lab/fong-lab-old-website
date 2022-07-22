@@ -38,9 +38,9 @@ nav:
 
 {%
   include feature.html
-  image="images/headshots/Lamprecht.png"
+  image="images/headshots/lamprecht.png"
   headline="Robert Lamprecht, Research Technician"
-  text="Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science and concentration in neuroscience from Wofford College. He has previously conducted research in affective disorders and spinal cord injury in rodent models.  Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be used to better understand sensation and perception.
+  text="Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science and concentration in neuroscience from Wofford College. He has previously conducted research in affective disorders and spinal cord injury in rodent models.  Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be used to better understand sensation and perception.:
 %}
 
 {% include section.html %}
