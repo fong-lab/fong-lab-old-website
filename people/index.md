@@ -36,6 +36,13 @@ nav:
   text="Arvin Sarkissian is a PhD student in the Neuroscience Graduate Program at Emory. He completed his undergraduate studies at Washington University in St. Louis, where he double majored in Cognitive Neuroscience and Biology. Arvin's prior research centered around interindividual variability in human brain organization using functional magnetic resonance imaging (fMRI). He is interested in combining electrophysiological and cellular techniques with computational methods to understand how variability arises in dynamic biological systems."
 %}
 
+{%
+  include feature.html
+  image="images/headshots/Lamprecht.png"
+  headline="Robert Lamprecht, Research Technician"
+  text="Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science and concentration in neuroscience from Wofford College. He has previously conducted research in affective disorders and spinal cord injury in rodent models.  Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be used to better understand sensation and perception.
+%}
+
 {% include section.html %}
 
 ### Research trainees from previous institutions
