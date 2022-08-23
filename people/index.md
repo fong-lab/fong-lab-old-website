@@ -33,7 +33,7 @@ nav:
 
 ### Friends of the lab
 **Arvin Sarkissian**, Graduate Rotation Student (Emory), 2022.<br>
-**Ta'Kayla Wright**, Undergraduate Researcher (Georgia Tech), 2021-2022.<br>
+**Ta'Kayla Wright**, Undergraduate Researcher and NIH-ESTEEMED Scholar (Georgia Tech), 2021-2022.<br>
 **Christian Candler**, Research Technician (MIT), 2019-2021.<br>
 **Nathan Liang**, Undergraduate Researcher (MIT), 2019-2020.<br>
 **Kerlina Liu**, Undergraduate Researcher (MIT), 2019-2020.<br>
