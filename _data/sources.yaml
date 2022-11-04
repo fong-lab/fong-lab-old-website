@@ -1,5 +1,6 @@
 - id: doi:10.1101/2022.02.04.479188
   image: ../images/publications/kimchi2021-biorxiv_thumbnail.png
+  publisher: bioRxiv
 
 - id: doi:10.7554/eLife.70023
   image: ../images/publications/fong-duffy2021-elife_thumbnail.png
