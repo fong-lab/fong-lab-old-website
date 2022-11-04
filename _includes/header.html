@@ -18,14 +18,6 @@
     class="logo_row"
   >
     <img src="{{ site.logo | relative_url }}" class="logo" alt="Logo image" />
-    {% if site.logo-text != false %}
-      <span class="logo_text">
-        <span class="logo_title">{{ site.title }}</span>
-        {% if site.subtitle %}
-          <span class="logo_subtitle">{{ site.subtitle }}</span>
-        {% endif %}
-      </span>
-    {% endif %}
   </a>
   <nav class="nav_row">
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
