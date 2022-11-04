@@ -1,4 +1,11 @@
-<!--
+---
+title: People
+nav:
+  order: 2
+---
+
+# <i class="fas fa-users"></i>People
+
 {% include section.html %}
 
 {%
