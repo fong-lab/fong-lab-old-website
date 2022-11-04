@@ -8,6 +8,8 @@ nav:
 
 {% include section.html %}
 
+## Current Members
+
 {%
   include list.html
   data="members"
@@ -47,6 +49,8 @@ nav:
 
 {% include section.html %}
 
+## Alumni
+
 {%
   include list.html
   data="members"
@@ -54,5 +58,3 @@ nav:
   filters="role: alum"
 %}
 {:.center}
-
--->
