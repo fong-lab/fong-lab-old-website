@@ -31,9 +31,12 @@ nav:
 
 {% include section.html %}
 
-### Friends of the lab
+### Alumni
 **Arvin Sarkissian**, Graduate Rotation Student (Emory), 2022.<br>
 **Ta'Kayla Wright**, Undergraduate Researcher and NIH-ESTEEMED Scholar (Georgia Tech), 2021-2022.<br>
+
+### Friends of the lab
+Thank you to Ming's former mentors and trainees for their support over the years!
 **Christian Candler**, Research Technician (MIT), 2019-2021.<br>
 **Nathan Liang**, Undergraduate Researcher (MIT), 2019-2020.<br>
 **Kerlina Liu**, Undergraduate Researcher (MIT), 2019-2020.<br>
@@ -46,6 +49,11 @@ nav:
 **Julia Deere**, Undergraduate Researcher (MIT/Wellesley), 2015-2018.<br>
 **Filia Van Dessel**, Undergraduate Researcher (MIT/Wellesley), 2015-2017.<br>
 **Yasemin Atiyas**, Undergraduate Researcher (MIT), 2015.<br>
+**Mark Bear**, Postdoctoral Advisor (MIT), 2015-2021.<br>
 **Candace Law**, Undergraduate Researcher and LINCR Fellow (Georgia Tech), 2011-2013.<br>
 **Marc Powell**, Undergraduate Researcher and Petit Scholar (Georgia Tech), 2011-2012.<br>
 **Amanda Fernandes**, Undergraduate Researcher (Emory), 2011.<br>
+**Steve Potter**, Graduate Thesis Advisor (Georgia Tech & Emory), 2009-2014.<br>
+**Peter Wenner**, Graduate Thesis Advisor (Emory), 2009-2014.<br>
+**Sebastian Seung**, Undergraduate Thesis Advisor (MIT), 2003-2005.<br>
+**Russ Tedrake**, Undergraduate Thesis Advisor (MIT), 2003-2005.<br>
