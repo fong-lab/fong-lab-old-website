@@ -22,8 +22,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-02-05'
   link: https://doi.org/gq6mfx
-  image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
-  _cache: 688026a3116205937297e6a9282dcd7cd629b5aab80a8e04f9e4338ca75f3fde
+  image: ../images/publications/kimchi2021-biorxiv_thumbnail.png
+  _cache: bec16ee392cf0f21024c12869530d4607ddc5203192191a78860c4427455e934
 - id: doi:10.7554/eLife.70023
   title: Correction of amblyopia in cats and mice after the critical period
   authors:
