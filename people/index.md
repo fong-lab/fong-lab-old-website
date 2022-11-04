@@ -31,12 +31,12 @@ nav:
 
 {% include section.html %}
 
-### Alumni
+### Lab alumni
 **Arvin Sarkissian**, Graduate Rotation Student (Emory), 2022.<br>
 **Ta'Kayla Wright**, Undergraduate Researcher and NIH-ESTEEMED Scholar (Georgia Tech), 2021-2022.<br>
 
 ### Friends of the lab
-Thank you to Ming's former mentors and trainees for their support over the years!
+(former trainees & mentors from previous institutions)<br>
 **Christian Candler**, Research Technician (MIT), 2019-2021.<br>
 **Nathan Liang**, Undergraduate Researcher (MIT), 2019-2020.<br>
 **Kerlina Liu**, Undergraduate Researcher (MIT), 2019-2020.<br>
