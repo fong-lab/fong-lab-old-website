@@ -1,6 +1,6 @@
 ---
 title: Paper published in eLife
-tags:
+tags: papers
 author: Ming-fai Fong
 member: mingfai-fong
 ---
