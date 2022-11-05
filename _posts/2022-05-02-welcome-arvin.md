@@ -1,6 +1,6 @@
 ---
 title: Welcome Arvin :)
-tags: new member
+tags: 
 author: Ming-fai Fong
 member: mingfai-fong
 ---
