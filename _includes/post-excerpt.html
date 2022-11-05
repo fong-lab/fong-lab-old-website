@@ -19,8 +19,6 @@
 
   {%
     include post-info.html
-    author=post.author
-    member=post.member
     date=post.date
     tags=post.tags
   %}
@@ -29,4 +27,5 @@
   <p>
     {{ content | strip_html | truncate: 500 }}
   </p>
+  <p></p>
 </div>
