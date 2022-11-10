@@ -21,16 +21,19 @@ We are not actively recruiting for staff positions.  If you are interested in le
 The Fong lab welcomes applications for graduate or postdoctoral training.  Ming-fai is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
 
 ### Graduate students
-We accept graduate students from the Georgia Tech and Emory Biomedical Engineering Program, the Emory Neuroscience Program, and the Georgia Tech Bioengineering Program.  If you are a student in one of these programs and interested in joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).  If you are interested in applying to one of these programs, please follow the links below.
+We accept graduate students who have already been admitted to one of the following programs: 
 
 [Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
 [Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) <br>
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
 
+If you are interested in our lab's work, we encourage you to apply to one (or more) of the programs above and list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and interested in learning more about joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 {% include section.html %}
+
 
 # Informal Mentorship
 
