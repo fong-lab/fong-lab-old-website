@@ -18,9 +18,9 @@ We are actively recruiting **two undergraduate students** to join our team in Sp
 <br>
 The undergraduate researcher will be responsible for processing and analyzing post-mortem tissue harvested from the mouse brain and eye.  The individual will learn brain and eye anatomy, sectioning approaches, staining and immunohistological procedures, and microscopy.  The ideal candidate would be comfortable with bench work, able to handle very fragile specimens, and have a strong attention to detail.
 
-**Position #2: Research Assistant specializing in Instrumentation**
+**Position #2: Research Assistant specializing in Mechanical Design**
 <br>
-The undergraduate researcher will be responsible for building rigs for use during mouse surgical and recording procedures.  The individual will be expected to apply principles of user-centered design to create accessible end-products for research use.  The ideal candidate would have knowledge of CAD, experience using machine shop tools, and the ability to work creatively and independently.
+The undergraduate researcher will be responsible for building rigs and small instruments for use during mouse surgical and recording procedures.  The individual will be expected to apply principles of user-centered design to create accessible end-products for research use.  The ideal candidate would have knowledge of CAD, experience using machine shop tools, and the ability to work creatively and independently.
 
 For both positions, undergraduate researchers would be expected to:
 -	engage intellectually in the research topics of the lab
@@ -34,7 +34,7 @@ For both positions, undergraduate researchers would be expected to:
 For individuals interested in working in the lab for multiple semesters, there will be opportunity for research activities to broaden in future semesters according to student interests and lab needs.  Such activities may include electrophysiological recordings, behavioral testing, and small animal surgery.
 
 If you are interested in applying for one of the open positions, please send an email to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu), formatted according to the following instructions:
--	Subject: "Histology Position" -or- Subject: "Instrumentation Position" (depending on which position you are applying for)
+-	Subject: "Histology Position" -or- Subject: "Mechanical Design Position" (depending on which position you are applying for)
 -	Body: Please write a brief statement of interest with the following information: (1) Introduce yourself. (2) Discuss why you are interested in our lab’s research. (3) Discuss why you are specifically interested in and/or qualified for the open position. (4) List times you could be available for an interview during the period between December 7-14, 2022. (5) List email contact information for two professional references.
 -	Attachment: resume or CV (max 2 pages)
 
