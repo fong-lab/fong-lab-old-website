@@ -31,7 +31,7 @@ For both positions, undergraduate researchers would be expected to:
 -	engage in lab communications in a timely fashion
 -	assist with general lab tasks such as fabricating electrodes, making solutions, and tidying common spaces
 
-For individuals interested in working in the lab for multiple semesters, there will be opportunity for research activities to broaden in future semesters according to student interests and lab needs.  Such activities may include electrophysiological recordings, behavioral testing, and small animal surgery.
+For individuals interested in working in the lab for multiple semesters, there will be opportunity for research activities to broaden in future semesters according to student interests and lab needs.  Such activities may include electrophysiological recordings, behavioral testing, data analysis, computational modeling, and small animal surgery.
 
 If you are interested in applying for one of the open positions, please send an email to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu), formatted according to the following instructions:
 -	Subject: "Histology Position" -or- Subject: "Mechanical Design Position" (depending on which position you are applying for)
