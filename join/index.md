@@ -14,10 +14,12 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 We are actively recruiting **two undergraduate students** to join our team in Spring 2023 for research credit.
 
-_Position #1: Research Assistant specializing in Histology_
+**Position #1: Research Assistant specializing in Histology**
+
 The undergraduate researcher will be responsible for processing and analyzing post-mortem tissue harvested from the mouse brain and eye.  The individual will learn brain and eye anatomy, sectioning approaches, staining and immunohistological procedures, and microscopy.  The ideal candidate would be comfortable with bench work, able to handle very fragile specimens, and have a strong attention to detail.
 
-_Position #2: Research Assistant specializing in Instrumentation_
+**Position #2: Research Assistant specializing in Instrumentation**
+
 The undergraduate researcher will be responsible for building rigs for use during mouse surgical and recording procedures.  The individual will be expected to apply principles of user-centered design to create accessible end-products for research use.  The ideal candidate would have knowledge of CAD, experience using machine shop tools, and the ability to work creatively and independently.
 
 For both positions, undergraduate researchers would be expected to:
@@ -32,11 +34,11 @@ For both positions, undergraduate researchers would be expected to:
 For individuals interested in working in the lab for multiple semesters, there will be opportunity for research activities to broaden in future semesters according to student interests and lab needs.  Such activities may include electrophysiological recordings, behavioral testing, and small animal surgery.
 
 If you are interested in applying for one of the open positions, please send an email to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu), formatted according to the following instructions:
--	Subject: *Undergraduate position – Histology* -or- *Undergraduate position – Instrumentation* (depending on which position you are applying for)
--	Body: Please write a statement of interest letter that includes: (1) a brief introduction, (2) why you are interested in our lab’s research, (3) why you are specifically interested in / qualified for the position, and (4) available times for a potential interview between December 7-14, 2022.
--	Attachments: resume or CV (max 2 pages)
+-	Subject: "Histology Position" -or- Subject: "Instrumentation Position" (depending on which position you are applying for)
+-	Body: Please write a brief statement of interest that addresses the following: (1) Who are you? (2) Why you are interested in our lab’s research? (3) Why you are specifically interested in and/or qualified for the open position? (4) What times could you be available for an interview during the period between December 7-14, 2022?
+-	Attachment: resume or CV (max 2 pages)
 
-note: If you are applying for both positions, send separate emails and tailor your email to the specific position.  Applying to one vs two positions will have no bearing on how you are evaluated.
+note: If you are applying for both positions, send separate emails and tailor your email to the specific position.  Applying to one vs two positions will have no bearing on how your application is evaluated.
 
 We will accept applications until December 4, 2022.  We will review applications on December 5th and 6th, and invite a subset of applicants to interview between December 7th and 14th.  We aim to extend offers no later than December 15, 2022.
 
