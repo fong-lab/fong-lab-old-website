@@ -15,11 +15,11 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 We are actively recruiting **two undergraduate students** to join our team in Spring 2023 for research credit.
 
 **Position #1: Research Assistant specializing in Histology**
-
+<br>
 The undergraduate researcher will be responsible for processing and analyzing post-mortem tissue harvested from the mouse brain and eye.  The individual will learn brain and eye anatomy, sectioning approaches, staining and immunohistological procedures, and microscopy.  The ideal candidate would be comfortable with bench work, able to handle very fragile specimens, and have a strong attention to detail.
 
 **Position #2: Research Assistant specializing in Instrumentation**
-
+<br>
 The undergraduate researcher will be responsible for building rigs for use during mouse surgical and recording procedures.  The individual will be expected to apply principles of user-centered design to create accessible end-products for research use.  The ideal candidate would have knowledge of CAD, experience using machine shop tools, and the ability to work creatively and independently.
 
 For both positions, undergraduate researchers would be expected to:
@@ -35,7 +35,7 @@ For individuals interested in working in the lab for multiple semesters, there w
 
 If you are interested in applying for one of the open positions, please send an email to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu), formatted according to the following instructions:
 -	Subject: "Histology Position" -or- Subject: "Instrumentation Position" (depending on which position you are applying for)
--	Body: Please write a brief statement of interest that addresses the following: (1) Who are you? (2) Why you are interested in our lab’s research? (3) Why you are specifically interested in and/or qualified for the open position? (4) What times could you be available for an interview during the period between December 7-14, 2022?
+-	Body: Please write a brief statement of interest with the following information: (1) Introduce yourself. (2) Discuss why you are interested in our lab’s research. (3) Discuss why you are specifically interested in and/or qualified for the open position. (4) List times you could be available for an interview during the period between December 7-14, 2022. (5) List email contact information for two professional references.
 -	Attachment: resume or CV (max 2 pages)
 
 note: If you are applying for both positions, send separate emails and tailor your email to the specific position.  Applying to one vs two positions will have no bearing on how your application is evaluated.
@@ -51,7 +51,7 @@ We will accept applications until December 4, 2022.  We will review applications
 We welcome new trainees and staff to join our team at various points throughout the year.
 
 ### Staff Positions
-Technician positions open up every 1-2 years.  Currently we are not actively recruiting for staff positions, but you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+Technician positions open up every 1-2 years.  Currently we are not recruiting for staff positions, but if you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
