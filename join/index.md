@@ -12,11 +12,11 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 # Open Positions
 
-We are actively recruiting **two undergraduate students** to join our team in Spring 2023 for research credit.
+We are actively recruiting **two undergraduate students** to join our team in Spring 2023 for research credit to help advance our studies in visual plasticity in mammalian neural circuits. **We especially encourage applications from underrepresented minorities and individuals committed to promoting diversity and equity in STEM.**  No prior lab experience is required for this position.
 
 **Position #1: Research Assistant specializing in Histology**
 <br>
-The undergraduate researcher will be responsible for processing and analyzing post-mortem tissue harvested from the mouse brain and eye.  The individual will learn brain and eye anatomy, sectioning approaches, staining and immunohistological procedures, and microscopy.  The ideal candidate would be comfortable with bench work, able to handle very fragile specimens, and have a strong attention to detail.
+The undergraduate researcher will be responsible for processing and analyzing post-mortem tissue harvested from the mouse brain and eye.  The individual will learn brain and eye anatomy, dissection approaches, staining and immunohistological procedures, and microscopy.  The ideal candidate would be comfortable with bench work, able to handle very fragile specimens, and have a strong attention to detail.
 
 **Position #2: Research Assistant specializing in Mechanical Design**
 <br>
@@ -30,6 +30,7 @@ For both positions, undergraduate researchers would be expected to:
 -	complete all required online trainings prior to the start of the semester
 -	engage in lab communications in a timely fashion
 -	assist with general lab tasks such as fabricating electrodes, making solutions, and tidying common spaces
+-	contribute to maintaining a positive and inclusive lab environment
 
 For individuals interested in working in the lab for multiple semesters, there will be opportunity for research activities to broaden in future semesters according to student interests and lab needs.  Such activities may include electrophysiological recordings, behavioral testing, data analysis, computational modeling, and small animal surgery.
 
