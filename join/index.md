@@ -47,7 +47,7 @@ We will accept applications until December 4, 2022.  We will review applications
 {% include section.html %}
 
 
-# Future Opportunities
+# Ongoing Opportunities
 We welcome new trainees and staff to join our team at various points throughout the year.
 
 ### Staff Positions
