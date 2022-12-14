@@ -30,7 +30,7 @@ We accept graduate students who have already been admitted to one of the followi
 If you are interested in our lab's work, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and interested in learning more about joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
 ### Undergraduate students
-We periodically have opportunities available for undergraduate research.  Typically these positions are posted 1-2 months prior to the start of the semester in the [Open Positions](#open-positions) section above.
+We periodically have opportunities available for undergraduate research.  Typically these positions are posted 1-2 months prior to the start of the semester.
 
 {% include section.html %}
 
