@@ -10,43 +10,6 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 {% include section.html %}
 
-# Open Positions
-
-We are actively recruiting **two undergraduate students** to join our team in Spring 2023 for research credit to help advance our studies in visual plasticity in mammalian neural circuits. **We especially encourage applications from underrepresented minorities and individuals committed to promoting diversity and equity in STEM.**  No prior lab experience is required for this position.
-
-**Position #1: Research Assistant specializing in Histology**
-<br>
-The undergraduate researcher will be responsible for processing and analyzing post-mortem tissue harvested from the mouse brain and eye.  The individual will learn brain and eye anatomy, dissection approaches, staining and immunohistological procedures, and microscopy.  The ideal candidate would be comfortable with bench work, able to handle very fragile specimens, and have a strong attention to detail.
-
-**Position #2: Research Assistant specializing in Mechanical Design**
-<br>
-The undergraduate researcher will be responsible for building rigs and small instruments for use during mouse surgical and recording procedures.  The individual will be expected to apply principles of user-centered design to create accessible end-products for research use.  The ideal candidate would have knowledge of CAD, experience using machine shop tools, and the ability to work creatively and independently.
-
-For both positions, undergraduate researchers would be expected to:
--	engage intellectually in the research topics of the lab
--	attend weekly lab meetings (unless conflicts with course schedule)
--	attend weekly one-on-one meetings with their supervisor
--	commit 10 hours per week to lab work
--	complete all required online trainings prior to the start of the semester
--	engage in lab communications in a timely fashion
--	assist with general lab tasks such as fabricating electrodes, making solutions, and tidying common spaces
--	contribute to maintaining a positive and inclusive lab environment
-
-For individuals interested in working in the lab for multiple semesters, there will be opportunity for research activities to broaden in future semesters according to student interests and lab needs.  Such activities may include electrophysiological recordings, behavioral testing, data analysis, computational modeling, and small animal surgery.
-
-If you are interested in applying for one of the open positions, please send an email to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu), formatted according to the following instructions:
--	Subject: "Histology Position" -or- Subject: "Mechanical Design Position" (depending on which position you are applying for)
--	Body: Please write a brief statement of interest with the following information: (1) Introduce yourself. (2) Discuss why you are interested in our lab’s research. (3) Discuss why you are specifically interested in and/or qualified for the open position. (4) List times you could be available for an interview during the period between December 7-14, 2022. (5) List email contact information for two professional references.
--	Attachment: resume or CV (max 2 pages)
-
-note: If you are applying for both positions, send separate emails and tailor your email to the specific position.  Applying to one vs two positions will have no bearing on how your application is evaluated.
-
-We will accept applications until December 4, 2022.  We will review applications on December 5th and 6th, and invite a subset of applicants to interview between December 7th and 14th.  We aim to extend offers no later than December 15, 2022.
-
-
-
-{% include section.html %}
-
 
 # Ongoing Opportunities
 We welcome new trainees and staff to join our team at various points throughout the year.
