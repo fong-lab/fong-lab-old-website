@@ -29,6 +29,13 @@ We accept graduate students who have already been admitted to one of the followi
 
 If you are interested in our lab's work, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and interested in learning more about joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
+Graduate students considering joining the Fong Lab (or any neuroscience/neuroengineering lab) are strongly encouraged to enroll in the following courses:
+- Georgia Tech BMED 7610 Quantitative Neuroscience (Fall only)
+- Emory IBS 526 Neuroanatomy and Systems Neuroscience (Fall only)
+- Emory IBS 514 Cellular, Developmental, Molecular, and Translational Neuroscience (Spring only)
+
+Please keep the registration deadlines and cross-registration deadlines in mind.
+
 ### Undergraduate students
 We periodically have opportunities available for undergraduate research.  Typically these positions are posted 1-2 months prior to the start of the semester.
 
