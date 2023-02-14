@@ -12,7 +12,7 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 
 # Ongoing Opportunities
-We welcome new trainees and staff to join our team at various points throughout the year.
+
 
 ### Staff Positions
 Technician positions open up every 1-2 years.  Currently we are not recruiting for staff positions, but if you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
@@ -26,6 +26,7 @@ We accept graduate students who have already been admitted to one of the followi
 [Georgia Tech and Emory Joint Biomedical Engineering Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
 [Emory Neuroscience Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) <br>
 [Georgia Tech Bioengineering Program](https://bioengineering.gatech.edu/)
+[Emory MD-PhD Program](https://med.emory.edu/MDPHD/)
 
 If you are interested in our lab's work, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and interested in learning more about joining the lab for your PhD studies or a research rotation, please contact [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
