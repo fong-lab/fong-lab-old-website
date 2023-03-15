@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.03.08.531789
+  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
+    than transmitter receptor activation
+  authors:
+  - Carlos Gonzalez-Islas
+  - Zahraa Sabra
+  - Ming-fai Fong
+  - "Pernille B\xFClow"
+  - Nicholas Au Yong
+  - Kathrin Engisch
+  - Peter Wenner
+  publisher: bioRxiv
+  date: '2023-03-09'
+  link: https://doi.org/grxhw8
+  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
+  _cache: 415a49d286bbc9aa3929f47f0503465758725c6ad0d7e351d1077f8fcdee0a80
 - id: doi:10.1101/2022.02.04.479188
   title: Reward contingency gates selective cholinergic suppression of amygdala neurons
   authors:
