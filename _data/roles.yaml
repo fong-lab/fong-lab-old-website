@@ -14,12 +14,16 @@ undergrad:
   icon: fas fa-seedling
   text: Undergraduate Student
 
+hs-student:
+  icon: fas fa-acorn
+  text: Undergraduate Student
+
 technician:
   icon: fas fa-microscope
   text: Technician
 
 manager:
-  icon: fas fa-magic
+  icon: fas fa-hat-wizard
   text: Lab Manager
   
 alum:
