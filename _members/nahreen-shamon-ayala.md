@@ -2,7 +2,7 @@
 name: Nahreen Shamon Ayala
 image: images/headshots/shamon-ayala.png
 description: 
-role: undergrad
+role: hs-student
 aliases:
   - N. Shamon Ayala
   - N Shamon Ayala
