@@ -16,7 +16,7 @@ undergrad:
 
 hs-student:
   icon: fas fa-acorn
-  text: High School Student
+  text: HS Student
 
 technician:
   icon: fas fa-microscope
