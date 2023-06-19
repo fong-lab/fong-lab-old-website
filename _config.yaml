@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Fong Lab
 description: Fong Lab @ Georgia Tech & Emory BME
-logo: images/fong-lab.png
+logo: images/logos/fonglab-logo-with-text.png
 header: images/pipets.jpg
 footer: images/pipets.jpg
 baseurl: /
