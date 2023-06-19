@@ -1,5 +1,93 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+  authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.05.522941
+  title: Hetnet connectivity search provides rapid insights into how two biomedical
+    entities are related
+  authors:
+  - Daniel S. Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J. Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N. Nicholson
+  - Yun Hao
+  - Blair D. Sullivan
+  - Michael W. Nagle
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-07'
+  link: https://doi.org/grmcb9
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-020-02021-3
+  title: Compressing gene expression data using multiple latent space dimensionalities
+    learns complementary biological representations
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2020-05-11'
+  link: https://doi.org/gg2mjh
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2019-06-24'
+  link: https://doi.org/c7np
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/573782
+  title: Sequential compression of gene expression across dimensionalities and methods
+    reveals no single best method or dimensionality
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-03-11'
+  link: https://doi.org/gfxjxf
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.03.08.531789
   title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
     than transmitter receptor activation
@@ -15,7 +103,8 @@
   date: '2023-03-09'
   link: https://doi.org/grxhw8
   image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
-  _cache: 415a49d286bbc9aa3929f47f0503465758725c6ad0d7e351d1077f8fcdee0a80
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.02.04.479188
   title: Reward contingency gates selective cholinergic suppression of amygdala neurons
   authors:
@@ -37,8 +126,9 @@
   publisher: bioRxiv
   date: '2022-02-05'
   link: https://doi.org/gq6mfx
-  image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
-
+  image: ../images/publications/kimchi2021-biorxiv_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.7554/eLife.70023
   title: Correction of amblyopia in cats and mice after the critical period
   authors:
@@ -51,7 +141,8 @@
   date: '2021-08-31'
   link: https://doi.org/gmqmgr
   image: ../images/publications/fong-duffy2021-elife_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1523/JNEUROSCI.1393-19.2020
   title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
     in Dissociated Neuronal Cultures
@@ -67,7 +158,8 @@
   date: '2020-04-20'
   link: https://doi.org/gkcdsv
   image: ../images/publications/hanes2020-jneuro_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/cercor/bhz260
   title: Distinct Laminar Requirements for NMDA Receptors in Experience-Dependent
     Visual Cortical Plasticity
@@ -83,7 +175,8 @@
   date: '2019-12-12'
   link: https://doi.org/gkcdsx
   image: ../images/publications/fong2020-cerebctx_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cne.24336
   title: Recovery from the anatomical effects of long-term monocular deprivation in
     cat lateral geniculate nucleus
@@ -96,7 +189,8 @@
   date: '2017-10-27'
   link: https://doi.org/gcgzxt
   image: ../images/publications/duffy2018-jcn_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.1613279113
   title: Rapid recovery from the effects of early monocular deprivation is enabled
     by temporary inactivation of the retinas
@@ -109,7 +203,8 @@
   date: '2016-11-17'
   link: https://doi.org/f9f2gw
   image: ../images/publications/fong2016-pnas_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.7554/eLife.07192
   title: Optogenetic feedback control of neural activity
   authors:
@@ -123,7 +218,8 @@
   date: '2015-07-03'
   link: https://doi.org/ghbdss
   image: ../images/publications/newman2015-elife_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/ncomms7339
   title: Upward synaptic scaling is dependent on neurotransmission rather than spiking
   authors:
@@ -135,7 +231,8 @@
   date: '2015-03-09'
   link: https://doi.org/f67qht
   image: ../images/publications/fong2015-natcomm_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fncir.2013.00184
   title: Delivery of continuously-varying stimuli using channelrhodopsin-2
   authors:
@@ -147,7 +244,8 @@
   date: '2013-12-06'
   link: https://doi.org/ghbhp2
   image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fncir.2012.00098
   title: Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter
     Electrophysiology Platform
@@ -162,7 +260,8 @@
   date: '2013-01-18'
   link: https://doi.org/gkcds5
   image: ../images/publications/newman2013-fncir_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ROBOT.2004.1302452
   title: Actuating a simple 3D passive dynamic walker
   authors:
@@ -174,4 +273,5 @@
   date: '2004-01-01'
   link: https://doi.org/dv3zh3
   image: ../images/publications/tedrake2004-icra_thumbnail.png
-
+  plugin: sources.py
+  file: sources.yaml
