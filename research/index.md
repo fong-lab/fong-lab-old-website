@@ -4,7 +4,8 @@ nav:
   order: 1
 ---
 
-# <i class="fas fa-microscope"></i> Research
+<<<<<<< HEAD
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based interventions for treating neurological disorders.  We use a variety of experimental approaches and engineering tools to achieve these goals.  Current work focuses on the central visual pathway and neurodevelopmental visual impairment.
 

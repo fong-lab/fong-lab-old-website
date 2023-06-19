@@ -4,9 +4,13 @@ nav:
   order: 4
 ---
 
-# <i class="fas fa-bullhorn"></i>  News
+# {% include icon.html icon="fa-solid fa-bullhorn" %}News
 
 {% include section.html %}
+
+{% include search-box.html %}
+
+{% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
 

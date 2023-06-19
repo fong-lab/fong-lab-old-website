@@ -4,7 +4,9 @@ nav:
   order: 6
 ---
 
-# <i class="fas fa-paper-plane"></i>Contact
+<<<<<<< HEAD
+# {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
+
 
 Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 {:.center}
@@ -26,3 +28,4 @@ Address: 313 Ferst Drive, Room 3237, Atlanta, GA 30318 [[map](https://www.google
   headline=""
   text=text
 %}
+
